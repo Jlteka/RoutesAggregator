@@ -3,11 +3,11 @@
     {
       "Name": "OneProvider",
       "Type": "ONE_PROVIDER",
-      "Url": "http://localhost:7146/"
+      "Url": "http://provider-one/api/v1/"
     },
     {
       "Name": "TwoProvider",
       "Type": "TWO_PROVIDER",
-      "Url": "http://localhost:7146/"
+      "Url": "http://provider-two/api/v1/"
     }]
 }
