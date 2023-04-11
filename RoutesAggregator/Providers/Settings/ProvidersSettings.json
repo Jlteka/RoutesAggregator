@@ -1,0 +1,13 @@
+{
+  "ProviderSettings": [
+    {
+      "Name": "OneProvider",
+      "Type": "ONE_PROVIDER",
+      "Url": "http://localhost:7146/"
+    },
+    {
+      "Name": "TwoProvider",
+      "Type": "TWO_PROVIDER",
+      "Url": "http://localhost:7146/"
+    }]
+}
